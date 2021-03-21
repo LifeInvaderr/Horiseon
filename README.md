@@ -1,5 +1,5 @@
 # Horiseon: Module 1 Challenge
-    ![](assets/images/Horiseon_Web_img.png)
+    ![](https://github.com/LifeInvaderr/Horiseon/blob/main/assets/images/Horiseon_Web_img.png)
 
 ## What I looked for in the project
     In this project, the first thing I did when cloned the starter code was to review the guide
