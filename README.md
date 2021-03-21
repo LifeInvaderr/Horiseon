@@ -1,7 +1,6 @@
 # Horiseon: Module 1 Challenge
-    ![Screenshot](https://github.com/LifeInvaderr/Horiseon/assets/images/Horiseon_Web_img.png "Screenshot")
+    ![](assets/images/Horiseon_Web_img.png)
 
-    <img src="/assets/images/Horiseon_Web_img.png" alt="Screenshot"/>
 ## What I looked for in the project
     In this project, the first thing I did when cloned the starter code was to review the guide
      lines of what needed to be changed.
