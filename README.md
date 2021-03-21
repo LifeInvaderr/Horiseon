@@ -1,5 +1,5 @@
 # Horiseon: Module 1 Challenge
-    ![Alt text](assets/images/Horiseon_Web_img.png?raw=true "Title")
+    ![Screenshot](https://github.com/LifeInvaderr/Horiseon/assets/images/Horiseon_Web_img.png "Screenshot")
 
 
 ## What I looked for in the project
