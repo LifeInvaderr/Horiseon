@@ -1,5 +1,5 @@
 # Horiseon: Module 1 Challenge
-    ![Alt text](assets/images/Horiseon_Web_img.png)
+    ![Alt text](assets/images/Horiseon_Web_img.png?raw=true "Title")
 
 
 ## What I looked for in the project
