@@ -3,7 +3,7 @@ URL to this repository https://github.com/LifeInvaderr/Horiseon
 
 URL to the depoloyed repository https://lifeinvaderr.github.io/Horiseon/
     
-![Horiseon Web Page](assets\images\Horiseon_Web_img.png)
+![Horiseon Web Page](assets/images/Horiseon_Web_img.png)
 
 ## Table of Contents
 * [Technologies](#technologies)
